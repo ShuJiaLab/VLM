@@ -1,6 +1,8 @@
 # Overall
 Welcome to the short tutorial to VLM, where the implementation of the VLM can be found below. In general, the user would want to setup the V-Net and L-Net first, then use V-Net to reconstruct 3D low-resolution volume from 2D light-field recordings, lastly use L-net to reconstruct super-resolutiuon 3D volume from the previous low-res 3D voluem.
 
+Last update: Sep, 2025
+
 ---
 # 1. V-Net
 The exact architecture of the V-Net can be found in the Supplementary Note 1 accompanied with the submitted manuscript.
